@@ -1,4 +1,13 @@
+# This repository has moved to [https://github.com/holidayapi/node-holidayapi](https://github.com/holidayapi/node-holidayapi)
+
+**The NPM package has also been renamed from `node-holidayapi` to simply `holidayapi`**
+
+**This repository has been archived.**
+
+---
+
 # node-holidayapi
+
 Official Node.js library for [Holiday API](https://holidayapi.com)
 
 ## Installation

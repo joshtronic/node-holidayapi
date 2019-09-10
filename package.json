@@ -1,7 +1,7 @@
 {
   "name": "node-holidayapi",
-  "version": "1.0.2",
-  "description": "Official Node.js library for Holiday API",
+  "version": "1.0.3",
+  "description": "DEPRECATED -- Official Node.js library for Holiday API",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
